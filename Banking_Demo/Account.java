@@ -52,13 +52,5 @@ public class Account {
                 );
     }
 
-    /*
-    public void displayDetails(){
-        System.out.println("Account{" +
-                "accountNumber=" + accountNumber +
-                ", accountHolderName='" + accountHolderName + '\'' +
-                ", balance=" + balance +
-                '}');
-    }*/
 
 }
